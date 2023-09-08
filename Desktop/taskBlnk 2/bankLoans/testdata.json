@@ -1,0 +1,55 @@
+[
+{
+    "userType":"bank",
+    "email":"B1@gmail.com",
+    "password":"1234",
+    "totalFundAmount":1000
+},
+{
+    "email":"B1@gmail.com",
+    "password":"1234"
+},
+{
+    "userType":"customer",
+    "email":"C1@gmail.com",
+    "password":"1234"
+},
+{
+    "email":"C1@gmail.com",
+    "password":"1234"
+},
+{
+    "userType":"provider",
+    "email":"P1@gmail.com",
+    "password":"1234"
+},
+{
+    "email":"P1@gmail.com",
+    "password":"1234"
+},
+{
+    "minAmount":10000,
+    "maxAmount":50000,
+    "interestRate":0.1,
+    "duration":5
+},
+{
+    "id": 1,
+    "minAmount": 10000.0,
+    "maxAmount": 50000.0,
+    "interestRate": 0.1,
+    "duration": 5,
+    "amount": null,
+    "bid": 1,
+    "pid": null
+},
+{
+    "lid": 1,
+    "amount": 20000
+},
+{
+    "lid": 1,
+    "amount": 20000,
+    "terms": "term1, term2"
+}
+]
